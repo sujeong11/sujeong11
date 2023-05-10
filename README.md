@@ -26,5 +26,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujeong11)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-[<img src="http://mazandi.herokuapp.com/api?handle=lsu7318"/>](https://solved.ac/lsu7318)
